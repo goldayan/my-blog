@@ -1,0 +1,25 @@
+
+base_url = "https://thangaayyanar.netlify.com"
+
+generate_rss = true
+compile_sass = true
+default_language = "en"
+taxonomies = [
+    {name = "categories"},
+    {name = "tags", paginate_by = 6, rss = true},
+    {name = "authors", rss = true},
+]
+highlight_code = true
+highlight_theme = "gruvbox-dark"
+build_search_index = true
+theme = "Tulma"
+
+[extra]
+zulma_menu = [
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+zulma_brand = {text = "Home"}
+zulma_title = "ThangaAyyanar Blog"
+zulma_theme = "default"
+
