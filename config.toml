@@ -1,5 +1,5 @@
 
-base_url = "https://thangaayyanar.netlify.com"
+base_url = "https://goldayan.netlify.com"
 
 generate_rss = true
 compile_sass = true
