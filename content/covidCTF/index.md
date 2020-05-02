@@ -1,5 +1,5 @@
 +++
-title = "Covid20 CTF writeup"
+title = "Covid19 CTF writeup"
 date = 2020-05-02
 description = "CTF writeup"
 
@@ -9,7 +9,7 @@ tags = ["ctf","writeup"]
 authors = ["Thanga Ayyanar"]
 +++
 
-CTF Writeup for [Covid20](https://covid19.threatsims.com). 
+CTF Writeup for [Covid19](https://covid19.threatsims.com). 
 
 ## Covid Scammers
 
