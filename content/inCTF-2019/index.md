@@ -1,6 +1,7 @@
 +++
 title = "inCTF 2019 writeup"
 date = 2019-11-30
+in_search_index = true
 
 [taxonomies]
 categories = ["Capture The Flag"]

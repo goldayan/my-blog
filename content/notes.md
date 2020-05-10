@@ -2,6 +2,7 @@
 title = "Handling Knowledge"
 date = 2019-12-15
 description = "Creating and managing notes"
+in_search_index = true
 
 [taxonomies]
 categories = ["Personal"]

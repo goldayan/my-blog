@@ -2,6 +2,7 @@
 title = "Rice Tea Cat Panda CTF writeup"
 date = 2020-05-01
 description = "CTF writeup"
+in_search_index = true
 
 [taxonomies]
 categories = ["Capture The Flag"]

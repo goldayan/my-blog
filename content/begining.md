@@ -2,6 +2,7 @@
 title = "New begining"
 date = 2019-11-30
 description = "Creating a blog using static site generator"
+in_search_index = true
 
 [taxonomies]
 categories = ["Personal"]

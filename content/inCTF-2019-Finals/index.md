@@ -1,6 +1,7 @@
 +++
 title = "inCTF 2019 Finals writeup"
 date = 2020-01-04
+in_search_index = true
 
 [taxonomies]
 categories = ["Capture The Flag"]
