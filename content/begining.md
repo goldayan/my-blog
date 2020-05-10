@@ -48,10 +48,13 @@ Articles are written in **markdown**.Can use any editor to write and we can also
 use mobile phones. Markdown syntax are simple and easy to learn.more info on
 markdown click [here](https://www.markdownguide.org)
 
-### Known issues
+### Known issues [Fixed]
 
 Currently search doesnot work. I donot know why the search index are not generated
 properly.working on it will fix it soon.
+
+* I forget to provide __in_search_index = true__ in page front matter.
+* I works now :) 
 
 ### Comments
 
@@ -87,3 +90,5 @@ This blog uses **Zulma** theme which is available in
 [here](https://www.getzola.org/themes/zulma/). Thanks to Zola developers
 for creating this software.
 
+### Changelog
+* **10-05-2020** : Serch bar issue fixed.
