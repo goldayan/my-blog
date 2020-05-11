@@ -3,7 +3,6 @@ title = "Sharky 2020 CTF writeup"
 date = 2020-05-10
 description = "CTF writeup"
 in_search_index = true
-draft = true
 
 [taxonomies]
 categories = ["Capture The Flag"]
