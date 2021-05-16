@@ -11,8 +11,6 @@ tags = ["swift","RE","radare2"]
 authors = ["Thanga Ayyanar"]
 +++
 
-June 26
-
 Debugging swift in radare2
 ```
 r2 -e bin.lang=swift -e bin.demanglecmd=true <program name>

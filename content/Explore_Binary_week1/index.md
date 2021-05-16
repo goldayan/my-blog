@@ -52,7 +52,9 @@ Things i learned in first week
    0x000011f7      c645e341       mov byte [var_1dh], 0x41    ; 'A'
     ```
 #### Problems we faced in Article 2
-    + One thing we struggle in this article is, we tried to print double followed exactly as print float value in **rax2** but we got wrong value. we have no clue on this.
+    + One thing we struggle in this article is, we tried to print double
+      followed exactly as print float value in **rax2** but we got wrong value.
+      we have no clue on this.
 
 ### Article 3
 	+ Condition, Switch and Loop
@@ -63,16 +65,20 @@ Things i learned in first week
 #### Article 3 - practice (patching)
     + I used Visual mode in radare2 to patch the loop counter
     + I press 'i' and go to the respective hex code and changed the logic.
-    + I also came across <shift>+a which didn't know, how to apply properly but sammy done this,I learned this from him.
+    + I also came across <shift>+a which didn't know, how to apply properly but
+      sammy done this,I learned this from him.
 
 ### Article 4
     + Array and Strings.
-    + Nora code blog also touches the array stuff slightly so i have little bit idea about array before reading this article.
+    + Nora code blog also touches the array stuff slightly so i have little bit
+      idea about array before reading this article.
     + Lot of things becomes clear to me after reading the two blog.
 
 #### Article 4 - practice (automation)
-    + First of all i don't understand why we need r2frida to automation, we can automate it easily using r2pipe as far as searched through the internet
-    + If we are using r2frida we can inject into running program and manipulate it while it is running, this what expected ?
+    + First of all i don't understand why we need r2frida to automation, we can
+      automate it easily using r2pipe as far as searched through the internet
+    + If we are using r2frida we can inject into running program and manipulate
+      it while it is running, this what expected ?
     + I tried it with r2 pipe to analyze the array binaries.
     ```
     import r2pipe
@@ -89,12 +95,19 @@ Things i learned in first week
 ## Tools
 ### Radare2 
     + I love command line tools, i used it lot during ctf challenges.
-    + I have watched a playlist of radare2 tool usages in binaryAdventure youtube channel,He has good [playlist](https://www.youtube.com/playlist?list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQ) on this tool.
+    + I have watched a playlist of radare2 tool usages in binaryAdventure
+      youtube channel,He has good
+      [playlist](https://www.youtube.com/playlist?list=PLg_QXA4bGHpvsW-qeoi3_yhiZg8zBzNwQ)
+      on this tool.
     + I learned few new commands from your channel, such as afvn,dr 1.
 ### Frida
     + I already came across this tool but never used it, for anything.
     + I learned frida seperately but watched a video demonstrating using r2frida but i haven't tried.
-    + came across tutorial video of frida 101 in twitter [Video](https://www.youtube.com/watch?v=CLpW1tZCblo) this a 4 hours stream he started with LD_PRELOAD and move to frida, Different ways to inject frida into the binary. He has exercise attached below, i followed along with it.The stream is bit long but learned ton.
+    + came across tutorial video of frida 101 in twitter
+      [Video](https://www.youtube.com/watch?v=CLpW1tZCblo) this a 4 hours
+      stream he started with LD_PRELOAD and move to frida, Different ways to
+      inject frida into the binary. He has exercise attached below, i followed
+      along with it.The stream is bit long but learned ton.
 ### Ghidra
     + I used it for ctf challenges, mainly for its decompiler capability.
 

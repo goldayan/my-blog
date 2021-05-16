@@ -25,10 +25,10 @@ In type casting blog we learned new assembly instruction which does the casting 
  cvs
 
 In Multidimenstion and Struct exploration blog i learned how to find those code 
- pf
- td
- afv-
- afvd
+- pf
+- td
+- afv-
+- afvd
 
 But tl command prints the structs we defined through td but it didn't work for me 
 i use tll command to print the struct information also used tp.
