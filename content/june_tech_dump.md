@@ -29,6 +29,7 @@ you know any other tool.
 - Each actor has it own mailbox where all messages are recieved.
 - Inorder to commnicate between other Actor, The actor need to know the address of Actor.
 - Actor can run in single machine or run in mutiple machine
+<!-- more -->
 #### What Actor can do ?
 - Create Another Actor
 - Send a message
@@ -61,7 +62,6 @@ man 4 inet
 
 ## Tools
 
-<!-- more -->
 ## Cross Compiler Docker Image
 - Cross compiler docker image
 - Provide ability to build software for other system from linux.
