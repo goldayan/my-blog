@@ -25,6 +25,7 @@ didn't work as i intented.
 
 ## Building targets(Apps)
 - Shell script using xcodebuild tool
+- Use `XCPretty` tool for human readable compile instructions
 Cons
     - No incremental build (as far as i know of)
 
@@ -67,6 +68,12 @@ window 2: logs + debugger
 
 ## Additional Tools
 Optional: Bagel
+Xcodeproj generation using [Xcodegen](https://github.com/yonaskolb/XcodeGen)
+
+## Dwarfdump
+```
+xcrun dwarfdump --uuid <PATH_TO_APP_EXECUTABLE>
+```
 
 Surprise
 xcrun - tool that manage other utility.
