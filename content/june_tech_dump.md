@@ -1,6 +1,6 @@
 +++
 title = "Tech Dump June"
-date = 2021-05-15
+date = 2021-06-28
 description = "Tech news and tools i found interesting"
 in_search_index = true
 
