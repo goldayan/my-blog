@@ -29,6 +29,11 @@ didn't work as i intented.
 Cons
     - No incremental build (as far as i know of)
 
+## List Simulator and devices with versions
+```
+xcrun xctrace list devices
+```
+
 ## Managing Simulator
 Tools to make simulator
 - iSimulator
