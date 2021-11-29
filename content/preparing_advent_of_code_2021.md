@@ -10,7 +10,10 @@ tags = ["code","swift", "aoc"]
 authors = ["ThangaAyyanar"]
 +++
 
-Advent of code starts at December 1 every year and it will continue till December 25.
+Advent of code starts at December 1 every year and it will continue till
+December 25. Each day you will get 2 problems to solve.
+
+site: [https://adventofcode.com/](https://adventofcode.com/)
 
 What can you learn in Advent of code ?
 - Programming challenges will be like a story to save santas which is cute.
@@ -31,7 +34,7 @@ challenges and try to solve it using TDD(Test Driven Development) style.
 
 ### More on TDD
 - Book: Test Driven Development By Example - Kent Beck.
-- https://kentbeck.github.io/TestDesiderata/
+- [https://kentbeck.github.io/TestDesiderata/](https://kentbeck.github.io/TestDesiderata/)
 
 ## Preparation the environment
 - Pick your programming language
