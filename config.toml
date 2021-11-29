@@ -18,6 +18,7 @@ theme = "Tulma"
 zulma_menu = [
     {url = "$BASE_URL/categories", name = "Categories"},
     {url = "$BASE_URL/tags", name = "Tags"},
+    {url = "$BASE_URL/books", name = "Books"},
 ]
 zulma_brand = {text = "Home"}
 zulma_title = "ThangaAyyanar Blog"
