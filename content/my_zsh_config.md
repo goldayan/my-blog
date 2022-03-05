@@ -18,9 +18,9 @@ me. Below is my simple and effective configuration.
 
 ## Changing the shell prompt to **Starship**
 - Default prompt is ugly
-- Startship is the best i used.[period]
+- Starship is the best i used.[period]
 - Install starship from https://starship.rs/
-- Startship toml file config (~/.config/starship.toml)
+- Starship toml file config (~/.config/starship.toml)
 ```toml
 add_newline = false
 
